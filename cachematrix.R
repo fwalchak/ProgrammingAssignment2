@@ -82,4 +82,4 @@ cacheSolve(makeCacheMatrix(9:9))
 
 # The above actually produces a matrix, so the code executes. I confess that I really do not
 # know what is going on with the function. However, if the primary purpose of the exercise is
-# to use GitHup, the evaluator can see that the upload (i.e., commit and push) was succesful.
+# to use GitHub, the evaluator can see that the upload (i.e., commit and push) was succesful.
