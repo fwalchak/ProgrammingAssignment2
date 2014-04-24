@@ -5,11 +5,11 @@
 ## functions do:
 
 # I am citing a discussion post by Fu Sheng Wang "Hope this helps those who are lost" regarding
-# a description of what the functions do. The post is in the discussion forums ubder the 
+# a description of what the functions do. The post is in the discussion forums under the 
 # Programming Assignment 2 topic. It succinctly explains the concepts involved with the
 # makeCacheMatrix and cacheSolve functions. This is my first exposure to such concepts, and I
 # have little understanding of it right now, so I thought is best to refer to a discussion forum
-# post that seems to be knowkedgeable. Fu Sheng Wang discusses the functions that compute and
+# post that seems to be knowledgeable. Fu Sheng Wang discusses the functions that compute and
 # cache the mean (as in the example code for the assignment). If one substitutes "Matrix" for "Mean"
 # in the function title and "solve" for "mean" for named functions, the explanation is the same
 # (and the code executes).
